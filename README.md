@@ -6,6 +6,7 @@
 ## Contato 📫
 - E-mail: jvitor-2005@hotmail.com
 - Telegram: https://t.me/JoseMorais
+- Linkedin: [Perfil](https://www.linkedin.com/in/jos%C3%A9-vitor-silva-de-morais-40135b120/)
 
 ## Meus artigos 📰
 - [Vida de Silício](https://portal.vidadesilicio.com.br/author/urbanze/)
