@@ -5,7 +5,7 @@ Focando seus esforços para ambientes IoT, conta com vastos conhecimentos na ár
 
 
 
-[![Omega github stats](https://github.com/PencilNavigator/readme-stats-URL/api?username=urbanze&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Omega github stats](https://github-readme-stats.vercel.app/api?username=urbanze&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contato 📫
 - E-mail: jvitor-2005@hotmail.com
