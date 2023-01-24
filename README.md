@@ -5,7 +5,7 @@ Focando seus esforços para ambientes IoT, conta com vastos conhecimentos na ár
 
 
 
-[![JM github stats](https://github.com/PencilNavigator/readme-stats-URL/api?username=urbanze&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/PencilNavigator/readme-stats-URL)
+[![JM github stats](https://readmestats.999857.xyz/api?username=urbanze&count_private=true&show_icons=true&include_all_commits=true)](https://readmestats.999857.xyz)
 
 ## Contato 📫
 - E-mail: jvitor-2005@hotmail.com
