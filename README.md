@@ -12,7 +12,8 @@ Focando seus esforços para ambientes IoT, conta com vastos conhecimentos na ár
 - Telegram: https://t.me/JoseMorais
 - Linkedin: [Perfil](https://www.linkedin.com/in/jos%C3%A9-vitor-silva-de-morais-40135b120/)
 
-## Meus artigos 📰
+## Meus artigos e livros 📰
+- [Amazon](https://a.co/d/5v8r4SQ)
 - [Vida de Silício](https://portal.vidadesilicio.com.br/author/urbanze/)
 - [Embarcados](https://www.embarcados.com.br/author/urbanze/)
 
